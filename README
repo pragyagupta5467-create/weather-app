@@ -1,6 +1,6 @@
 Weather App
 A simple Weather App built using HTML, CSS, and JavaScript. The application uses a Weather API to fetch and display real-time weather information for any city entered by the user.
-
+https://weather-app-pragya.netlify.app/
 Project Features
 • Search weather by city name
 • Display current temperature

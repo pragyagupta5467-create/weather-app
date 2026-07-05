@@ -1,0 +1,52 @@
+Weather App
+A simple Weather App built using HTML, CSS, and JavaScript. The application uses a Weather API to fetch and display real-time weather information for any city entered by the user.
+
+Project Features
+• Search weather by city name
+• Display current temperature
+• Show weather condition
+• Display humidity
+• Show wind speed
+• Handle invalid city names gracefully
+• Responsive user interface
+
+Tech Stack
+• HTML5
+• CSS3
+• JavaScript (ES6)
+• Weather API
+• Fetch API
+
+Project Structure
+Weather-App
+
+index.html
+style.css
+script.js
+README.md
+
+How to Run
+1. Clone or download the repository.
+2. Open the project folder.
+3. Add your Weather API key in the JavaScript file.
+4. Open index.html in your browser.
+
+Concepts Used
+• DOM Manipulation
+• Event Listeners
+• Fetch API
+• Async/Await
+• JSON Handling
+• API Integration
+• Error Handling
+
+Future Improvements
+• Current location weather
+• 5-Day weather forecast
+• Dark mode
+• Weather icons
+• Search history using Local Storage
+
+Author
+Pragya Gupta
+Full Stack java developer
